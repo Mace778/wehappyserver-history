@@ -1,6 +1,8 @@
 # wehappyserver-history
 这是一个wehappyserver的历史
 你可以在这里看到历代整合包等并且下载他们
+因此这也是一个整合包下载点
 来源：服务器QQ群705273930
+游戏地址：game.wehappyserver.xyz
 首个仓库不会做请见谅
 由Mace778创建
