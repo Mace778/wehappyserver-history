@@ -9,6 +9,8 @@
 
 游戏地址：game.wehappyserver.xyz
 
+官网地址：blog.wehappyserver.xyz
+
 从1.1.7版本开始，我会在发行版发布自制的加强版整合包（Plus版），包含实用mod，资源包及更多优化，欢迎下载
 
 具体加入了输入法冲突修复，钠扩展，灵魂出窍（Zoom Camera），WI缩放，物品栏HUB+，钠汉化，氪，玉。同时还改变了一些设置与键位，可以自行查看
