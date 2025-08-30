@@ -1,4 +1,4 @@
-# wehappyserver-history
+# wehappyserver-history-and-plus
 这是一个wehappyserver的服务器客户端整合包历史
 
 你可以在这里看到历代整合包等并且下载他们，而且还有作者自制Plus版本哦
